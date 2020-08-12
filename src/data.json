@@ -1,0 +1,149 @@
+{
+  "category": [
+    {
+      "name": "Nam",
+      "id": 1
+    },
+    {
+      "name": "Nữ",
+      "id": 2
+    },
+    {
+      "name": "Trẻ em",
+      "id": 3
+    }
+  ],
+  "product": [
+    {
+      "name": "Intelligent Wooden Shirt",
+      "id_category": "1",
+      "image": "http://lorempixel.com/640/480/abstract",
+      "price": "407.00",
+      "content": "dtsbhfygvnhgtn",
+      "id": 21
+    },
+    {
+      "name": "nike",
+      "id_category": "2",
+      "image": "https://trumboss.vn/wp-content/uploads/2018/07/cho-hung-du-voi-cho-khac.jpg",
+      "price": "1200",
+      "content": "cvnmhjkhngbfdgsfxd",
+      "id": 22
+    },
+    {
+      "name": "Giày Sneaker G5 CONXE",
+      "id_category": "1",
+      "image": "https://www.chapi.vn/img/product/2020/3/3/giay-sneaker-the-thao-nam-g5-conxegn-8-500x500.jpg",
+      "price": "1300",
+      "content": "Sợi dệt cao cấp, đi giày tạo cảm giác thoải mái.",
+      "id": 23
+    },
+    {
+      "name": "Giày thể thao nam NAIK",
+      "id_category": "1",
+      "image": "https://www.chapi.vn/img/product/2020/7/30/giay-the-thao-nam-thoang-khi-naik-pllo-4-500x500.jpg",
+      "price": "1500",
+      "content": "Giày chạy, thể thao, du lịch",
+      "id": 24
+    },
+    {
+      "name": "Giày lưới thể thao PROCAEL",
+      "id_category": "1",
+      "image": "https://www.chapi.vn/img/product/2020/6/1/giay-luoi-the-thao-nam-ngoai-troi-procael-3-500x500.jpg",
+      "price": "1500",
+      "content": "Thoát nước, thoáng khí",
+      "id": 25
+    },
+    {
+      "name": "Giày trẻ em GA899",
+      "id_category": "3",
+      "image": "https://product.hstatic.net/1000011840/product/3giay-tre-em-xuat-khau-ga89-1_master.jpg",
+      "price": "5000",
+      "content": "Da thật và đế cao su nhiệt dẻo",
+      "id": 27
+    },
+    {
+      "name": "nguyen thi ha",
+      "id_category": "1",
+      "image": "https://trumboss.vn/wp-content/uploads/2018/07/cho-hung-du-voi-cho-khac.jpg",
+      "price": "12",
+      "content": "1234",
+      "id": 28
+    },
+    {
+      "name": "1234",
+      "id_category": "1",
+      "image": "https://trumboss.vn/wp-content/uploads/2018/07/cho-hung-du-voi-cho-khac.jpg",
+      "price": "20",
+      "content": "qưe",
+      "id": 29
+    }
+  ],
+  "user": [
+    {
+      "name": "nguyen thi ha",
+      "image": "https://trumboss.vn/wp-content/uploads/2018/07/cho-hung-du-voi-cho-khac.jpg",
+      "role": 1,
+      "email": "hantph07724@fpt.edu.vn",
+      "password": "oanhhangoc123",
+      "id": 1
+    },
+    {
+      "name": "nguyen thi cute",
+      "image": "https://trumboss.vn/wp-content/uploads/2018/07/cho-hung-du-voi-cho-khac.jpg",
+      "price": "123",
+      "role": 2,
+      "email": "hantph07724@fpt.edu.vn",
+      "password": "oanhhangoc123",
+      "id": 2
+    }
+  ],
+  "post": [
+    {
+      "id": 1,
+      "id_user": 2,
+      "id_category": 2,
+      "title": "mèo méo meo",
+      "image": "https://image.tienphong.vn/w665/uploads/2018/10/5bc41f947aa93-1.jpg",
+      "content": "gehcfgsejfccbjhef"
+    },
+    {
+      "title": "mèo méo meo",
+      "id_category": "1",
+      "id_user": "1",
+      "image": "https://image.tienphong.vn/w665/uploads/2018/10/5bc41f947aa93-1.jpg",
+      "content": "gehcfgsejfccbjhef",
+      "id": 2
+    },
+    {
+      "title": "wew",
+      "id_category": "1",
+      "id_user": "1",
+      "image": "https://trumboss.vn/wp-content/uploads/2018/07/cho-hung-du-voi-cho-khac.jpg",
+      "content": "rvfdbdbfg bn",
+      "id": 3
+    },
+    {
+      "title": "wewcsc",
+      "id_category": "3",
+      "id_user": "1",
+      "image": "https://www.xahara.vn/wp-content/uploads/h%C3%ACnh-%E1%BA%A3nh-ch%C3%B3-husky-ng%E1%BA%A7u.jpg",
+      "content": "ghnghn",
+      "id": 4
+    }
+  ],
+  "checkOut": [
+    {
+      "id": 1,
+      "id_user": 1,
+      "id_product": 21,
+      "tong": "250"
+    },
+    {
+      "id": 2,
+      "id_user": 2,
+      "id_product": 22,
+      "tong": "250"
+    }
+  ]
+}
